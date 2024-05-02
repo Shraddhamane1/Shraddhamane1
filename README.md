@@ -15,3 +15,9 @@
     <img src="https://img.shields.io/badge/linkedin purple?style=for-the-badge&logo=instagram&logoColor=white" alt="linkedin Badge"/>
   </a>
 </div>
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=postgres,py,sqlite,github,gitxd&perline=5)](https://skillicons.dev)
+
+
+<br>
