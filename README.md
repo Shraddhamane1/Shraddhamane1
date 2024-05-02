@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Shraddhamane1
-- 👀 I’m interested in Data Science
+ <h1 align="center">Hi 👋, I'm Shraddha Mane </h1>
+
+
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Full Stack Data Science & AI
 - 💞️ I’m looking to collaborate on data analysis project
 - 📫 How to reach me shraddhamane67809@gmail.com
