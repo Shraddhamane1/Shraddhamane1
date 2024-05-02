@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning Full Stack Data Science & AI
 - 💞️ I’m looking to collaborate on data analysis project
 - 📫 How to reach me shraddhamane67809@gmail.com
-
-
+- LinkedIn - www.linkedin.com/in/shraddha-mane-578a7b260
 
 ### Connect with me:
 <div id="badges">
