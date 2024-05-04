@@ -21,5 +21,4 @@
 [![My Skills](https://skillicons.dev/icons?i=postgres,py,sqlite,github,excel,gitxd&perline=5)](https://skillicons.dev)
 <div> 
   <img align="center" alt="Tiago-Excel" height="30" width="150" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-###
 <br>
